@@ -1,0 +1,48 @@
+.main-login{
+    height: 75vh;
+    /* width: 100vw; */
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    back
+     */
+     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    /* 400 px height */
+    height: 400px; 
+    width:  320px;
+    background-color: rgb(18, 6, 56);
+    border-radius: 15px;
+    background: linear-gradient(90deg, rgba(226,219,231,1) 0%, rgba(227,216,218,1) 28%, rgba(230,218,218,1) 50%);
+    color: black;
+    box-shadow: 0 0 10px 8px #cfc7c7;
+    margin-top: 30px;
+}
+.photo{
+    display: flex;
+    width: 100%;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    /* z-index: 1; */
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 29px;
+    /* background-color: rgb(6, 1, 22); */
+}
+.btn{
+    background-color:    rgba(9,9,121,1) !important;
+    background-image: linear-gradient(90deg, rgba(121,40,202,1) 0%, rgba(255,0,128,1) 100%);
+
+}
+
+.inform{
+    display: block;
+    margin-top: -20px;
+}

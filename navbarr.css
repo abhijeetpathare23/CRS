@@ -1,0 +1,39 @@
+#basic-nav-dropdown{
+    margin-left: -31px;
+
+}
+
+.dropdown-menu {
+    margin-left: -150px !important;
+}
+
+
+.account-logo{
+    margin-left: 715px;
+    margin-top: 6px;
+    border-radius: 50%;
+    width: 50px;
+    border: 3px solid white;
+}
+
+.header{
+    background: linear-gradient(90deg, #7928ca 0%, rgba(255,0,128,1) 100%);
+    height: 60px !important;
+    width: 100% !important;
+    font-family: 'Poppins';
+}
+.me-auto{
+    margin-left: 20px;
+}
+.nav-link{
+    margin: 0px 3px ;
+    color: white !important;
+    margin-left: 14px;
+    /* padding: 0px 10px !important; */
+}
+.navbar-brand{
+    font-weight: bold;
+    font-style: oblique;
+    color: white !important;
+    text-decoration: underline !important;
+}
